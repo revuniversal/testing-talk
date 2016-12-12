@@ -1,5 +1,7 @@
 # testing-talk
-Meetup talk about testing
+QC Coders Meetup presentation about test-driven development
+
+Slides are [here](https://slides.com/revherr/tdd).
 
 #### TODOs
 - [x] Design Slides
